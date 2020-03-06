@@ -1,5 +1,10 @@
 # My personal blog
 
+<p align="center">
+<img src="img/Logo3.png" height="250px">
+</p>
+
+
 It's my own personal blog encoded in CSS, HTML, Javascript, and Bootstrap. 
 
 ## Coded With:

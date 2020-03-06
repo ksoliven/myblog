@@ -1,7 +1,7 @@
 # My personal blog
 
 <p align="center">
-<img src="img/Logo3.png" height="250px">
+  <a href="https://katedevblog.com/"><img src="img/Logo3.png" height="250px"></a>
 </p>
 
 
